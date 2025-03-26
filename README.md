@@ -1,1 +1,1 @@
-# Restaurant Billing web
+# Restaurant Billing App
