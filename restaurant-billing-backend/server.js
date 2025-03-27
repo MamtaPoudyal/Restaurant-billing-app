@@ -12,7 +12,7 @@ const db = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "mamta2004",
-  database: "db",
+  database: "restaurant_billing",
 });
 
 db.connect((err) => {
