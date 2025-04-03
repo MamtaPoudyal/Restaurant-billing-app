@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 import { FaEdit, FaTrash } from "react-icons/fa";
+import { FaBeer } from 'react-icons/fa';
+
 import "./styles.css";
 
 const App = () => { const [customers, setCustomers] = useState([ 
